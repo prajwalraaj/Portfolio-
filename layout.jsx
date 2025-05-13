@@ -1,0 +1,1 @@
+// Main layout with navigation and route handling
